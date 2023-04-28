@@ -9,7 +9,7 @@ To get started with the project, you'll need to have Go installed on your machin
 
 Once you have Go installed, you can clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/nand2tetris-assembler-go.git
+git clone https://github.com/YarinShitrit/Nand2Tetris_Go_Assembler.git
 ```
 To build the assembler, run the following command in the project root directory:
 
